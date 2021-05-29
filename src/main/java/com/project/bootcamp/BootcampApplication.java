@@ -23,5 +23,4 @@ public class BootcampApplication {
 				.license(new License().name("Apache 2.0").url("http://spingdoc.org"))
 				);
 	}
-
 }
